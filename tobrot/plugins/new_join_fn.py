@@ -25,6 +25,6 @@ async def help_message_f(client, message):
     # display the /help
 
     await message.reply_text(
-        """<b>Hello I am Ayush LeechX Bot 2 , and I'm Capable of leeching torrents, magnet and Direct URL's to Telegram and Google Drive.\n See List of Commands With /help""",
+        """<b>Hello I am Ayush LeechX Bot 2 🤩 , and I'm Capable of leeching torrents, magnet and Direct URL's to Telegram and Google Drive.<b>""",
         disable_web_page_preview=True,
     )
